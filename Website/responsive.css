@@ -1,0 +1,63 @@
+@media screen and (min-width: 701px) and (max-width: 767px){
+
+  #bigLogo{
+    margin: auto;
+  }
+
+  #web {
+    margin: 0 auto;
+  }
+
+  .images {
+    margin-top: 20px;
+    margin-left: 100px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+
+  #bigLogo {
+    margin-top: 5%
+  }
+
+  #web {
+    margin: 0 auto;
+  }
+
+  .row {
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px){
+
+  #bigLogo {
+    margin-left: -10%;
+    margin-top: 2%
+  }
+
+  #nickname {
+    margin-left: 6%;
+    margin-top: 2%;
+  }
+
+  .row {
+    width: 100%;
+    margin: -10px;
+  }
+}
+
+@media screen and (min-width: 1200px){
+
+  #bigLogo {
+    margin-left: -10%;
+  }
+
+  #web {
+    margin: 5px 5px 5px 5px;
+  }
+
+ #nickname {
+   margin-top: 3%;
+ }
+}

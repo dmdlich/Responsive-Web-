@@ -1,0 +1,26 @@
+  .container {
+    width: 100%;
+    font-family: helvetica, arial, courier;
+    color: #2d3c49;
+    text-align: center;
+  }
+
+  .divider {
+    border: 2px solid #7d97ad;
+  }
+
+  #bigLogo {
+    width: 100%;
+  }
+
+  #image {
+    width: 100%;
+  }
+
+  #web {
+    margin:20px;
+  }
+
+  #logo {
+    border: solid #119B15 5px;
+  }
